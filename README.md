@@ -54,5 +54,8 @@ Add, Commit, Push
 Standard procedure: Add, Commit (close file without saving), (and Push)
 Faster: Quick commit a single file, (and Push)
 
-* [Github for mac](http://mac.github.com/)
+
+Alternatively
+--------------
+github distributes an "easier" application that merges bit with access to their (closed-source) platform. Advantages: works without separate git install, Disadvantages: sublime plugin won't work (unless git is also installed) ... so commits and syncing should be done with the github app. [Github for mac](http://mac.github.com/).
 
